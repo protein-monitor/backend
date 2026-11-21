@@ -16,3 +16,9 @@ No application code yet.
 ## Hard rules
 - Never commit secrets (API keys, passwords, tokens, .env files).
 - Every code change comes with tests.
+
+## Commands (meals-api)
+
+- `make run`: start the server
+- `make test`: run the tests
+- `make lint`: run the linter
