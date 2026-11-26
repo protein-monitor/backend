@@ -5,9 +5,12 @@ __pycache__/
 
 # Secrets
 .env
-.env.*
 
 # Editors and OS
 .vscode/
 .idea/
 .DS_Store
+.env
+!.env.example
+!.env.example
+!.env.example
